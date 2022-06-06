@@ -1,0 +1,15 @@
+{
+  "name": "coding-challenge-basic-nodejs",
+  "version": "1.0.0",
+  "description": "Walmart basic nodejs coding challenge",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Miguel Alcalá",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
