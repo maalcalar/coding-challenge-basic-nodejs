@@ -1,6 +1,6 @@
 {
   "name": "coding-challenge-basic-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Walmart basic nodejs coding challenge",
   "main": "src/index.js",
   "type": "module",
